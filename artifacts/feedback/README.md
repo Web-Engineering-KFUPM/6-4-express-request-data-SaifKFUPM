@@ -4,7 +4,7 @@
 
 - **Lab:** 6-4-express-request-data-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-08T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-08T09:45:45+03:00
+- **Last commit time (from git log):** 2026-04-08T09:49:13+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -62,17 +62,15 @@
 **Deductions / Notes**
 - ✅ No deductions. Good job!
 
-### TODO 5: Implement GET /users/:userId route — **0/15**
+### TODO 5: Implement GET /users/:userId route — **15/15**
 
 **Checklist**
-- ❌ Defines GET route app.get("/users/:userId", ...)
-- ❌ Uses req.userIdNum in the route response
-- ❌ Returns JSON with ok:true and userId
+- ✅ Defines GET route app.get("/users/:userId", ...)
+- ✅ Uses req.userIdNum in the route response
+- ✅ Returns JSON with ok:true and userId
 
 **Deductions / Notes**
-- ❗ Missing: Defines GET route app.get("/users/:userId", ...)
-- ❗ Missing: Uses req.userIdNum in the route response
-- ❗ Missing: Returns JSON with ok:true and userId
+- ✅ No deductions. Good job!
 
 ---
 
