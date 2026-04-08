@@ -4,7 +4,7 @@
 
 - **Lab:** 6-4-express-request-data-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-08T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-08T09:37:44+03:00
+- **Last commit time (from git log):** 2026-04-08T09:44:40+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -41,17 +41,15 @@
 **Deductions / Notes**
 - ✅ No deductions. Good job!
 
-### TODO 3: Implement GET /profile/:first/:last using req.params — **0/15**
+### TODO 3: Implement GET /profile/:first/:last using req.params — **15/15**
 
 **Checklist**
-- ❌ Defines GET route app.get("/profile/:first/:last", ...)
-- ❌ Reads first and last from req.params
-- ❌ Returns JSON with ok:true and fullName
+- ✅ Defines GET route app.get("/profile/:first/:last", ...)
+- ✅ Reads first and last from req.params
+- ✅ Returns JSON with ok:true and fullName
 
 **Deductions / Notes**
-- ❗ Missing: Defines GET route app.get("/profile/:first/:last", ...)
-- ❗ Missing: Reads first and last from req.params
-- ❗ Missing: Returns JSON with ok:true and fullName
+- ✅ No deductions. Good job!
 
 ### TODO 4: Implement app.param("userId") middleware — **0/15**
 
